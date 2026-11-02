@@ -5,9 +5,7 @@
 
 ### Hey, I'm ibohamid10
 
-Curious by default. I like digging into a problem until I really understand it, and then building the thing that makes it go away. Based in Vienna, mostly building web apps and small tools.
-
-**Usually working with:** TypeScript · React · Next.js · Node.js · Python · Docker · Cloudflare
+Curious by default. I like digging into a problem until I really understand it, and then building the thing that makes it go away. Whatever tools it takes. Based in Vienna.
 
 ---
 
